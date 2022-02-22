@@ -1,0 +1,3 @@
+node-html-to-image
+discord.js
+puppeteer
